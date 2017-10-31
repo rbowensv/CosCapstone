@@ -1,0 +1,251 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{ynt/global/}
+    \entry{bail}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a5f8f743083e3e613ffccf6ae525b3d}{%
+           family={Bail},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a5f8f743083e3e613ffccf6ae525b3d}
+      \strng{fullhash}{7a5f8f743083e3e613ffccf6ae525b3d}
+      \strng{authornamehash}{7a5f8f743083e3e613ffccf6ae525b3d}
+      \strng{authorfullhash}{7a5f8f743083e3e613ffccf6ae525b3d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bmj}
+      \field{month}{1}
+      \field{number}{7383}
+      \field{title}{Electronic tagging of people with dementia}
+      \field{volume}{326}
+      \field{year}{2003}
+      \field{pages}{281\bibrangedash 281}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1136/bmj.326.7383.281
+      \endverb
+    \endentry
+    \entry{robinson}{article}{}
+      \name{author}{7}{}{%
+        {{hash=4e2b59a213b3ac9bbcc9640b196011f4}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ec85196591ff543abea909e8aa0fb5a0}{%
+           family={Hutchings},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=da085398bafb84a2dc4177e973ac26aa}{%
+           family={Corner},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3a5b851eb00d6bc7b269dd280d922a9e}{%
+           family={Finch},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e7da55059ed01bcbb8ab2f28900010ec}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cee3dd118c8b38644778f1e275395428}{%
+           family={Brittain},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9675de96f737a6d5a5a45addd325cb06}{%
+           family={Bond},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b02b805744190019058d8063b43ea89f}
+      \strng{fullhash}{b5ffbe571cae655176ab763e7e99244f}
+      \strng{authornamehash}{b02b805744190019058d8063b43ea89f}
+      \strng{authorfullhash}{b5ffbe571cae655176ab763e7e99244f}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health, Risk \& Society}
+      \field{number}{4}
+      \field{title}{Balancing rights and risks: Conflicting perspectives in the management of wandering in dementia}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{389\bibrangedash 406}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/13698570701612774
+      \endverb
+    \endentry
+    \entry{chawathe}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7408efbe7e721bf11975330928cb1264}{%
+           family={Chawathe},
+           familyi={C\bibinitperiod},
+           given={Sudarshan\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7408efbe7e721bf11975330928cb1264}
+      \strng{fullhash}{7408efbe7e721bf11975330928cb1264}
+      \strng{authornamehash}{7408efbe7e721bf11975330928cb1264}
+      \strng{authorfullhash}{7408efbe7e721bf11975330928cb1264}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2008 11th International IEEE Conference on Intelligent Transportation Systems}
+      \field{title}{Beacon Placement for Indoor Localization using Bluetooth}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1109/itsc.2008.4732690
+      \endverb
+    \endentry
+    \entry{sposaro}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e6dbe80dbef2f93ed6ebd90300bf245b}{%
+           family={Sposaro},
+           familyi={S\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=92b45f09edafed160dadeb13670536f7}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3894a30e042365580d985cd959409922}{%
+           family={Tyson},
+           familyi={T\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0a7a8749b2e15a806290a10c3138073}
+      \strng{fullhash}{a0a7a8749b2e15a806290a10c3138073}
+      \strng{authornamehash}{a0a7a8749b2e15a806290a10c3138073}
+      \strng{authorfullhash}{a0a7a8749b2e15a806290a10c3138073}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2010 Annual International Conference of the IEEE Engineering in Medicine and Biology}
+      \field{title}{iWander: An Android application for dementia patients}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1109/iembs.2010.5627669
+      \endverb
+    \endentry
+    \entry{MPR}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d87b368031f5e56809190719b5468e8e}{%
+           family={Hecker},
+           familyi={H\bibinitperiod},
+           given={Jeffery\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cc76566db472782a78ebd25a864fa06e}{%
+           family={Gugliucci},
+           familyi={G\bibinitperiod},
+           given={Marilyn\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{deac77db0d9b8df7198d5db1ccb32fb0}
+      \strng{fullhash}{deac77db0d9b8df7198d5db1ccb32fb0}
+      \strng{authornamehash}{deac77db0d9b8df7198d5db1ccb32fb0}
+      \strng{authorfullhash}{deac77db0d9b8df7198d5db1ccb32fb0}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Maine Policy Review}
+      \field{number}{2}
+      \field{title}{A Call to Action: Maine’s Colleges and Universities Respond to an Aging Population}
+      \field{volume}{24}
+      \field{year}{2015}
+      \field{pages}{36\bibrangedash 41}
+      \range{pages}{6}
+    \endentry
+    \entry{ng}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f2cf31bb28ac32fccbd16f32648c462a}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Tsz\bibnamedelima Ming},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{fullhash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{authornamehash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{authorfullhash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HKIE Transactions}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{From “Where I am” to “Here I am”: Accuracy study on location-based services with iBeacon technology}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{23\bibrangedash 31}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/1023697x.2015.1009411
+      \endverb
+    \endentry
+    \entry{schmalenstroeer}{article}{}
+      \name{author}{2}{}{%
+        {{hash=07f91860a7a13ce396f0e6f7ef9d03d4}{%
+           family={Schmalenstroeer},
+           familyi={S\bibinitperiod},
+           given={Joerg},
+           giveni={J\bibinitperiod}}}%
+        {{hash=27394268ec19154143123cbcd93f5788}{%
+           family={Haeb-Umbach},
+           familyi={H\bibinithyphendelim U\bibinitperiod},
+           given={Reinhold},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb6722a2b3feaa859cb6a808a3a3bc96}
+      \strng{fullhash}{eb6722a2b3feaa859cb6a808a3a3bc96}
+      \strng{authornamehash}{eb6722a2b3feaa859cb6a808a3a3bc96}
+      \strng{authorfullhash}{eb6722a2b3feaa859cb6a808a3a3bc96}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2016 24th European Signal Processing Conference (EUSIPCO)}
+      \field{title}{Investigations into Bluetooth low energy localization precision limits}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1109/eusipco.2016.7760329
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
