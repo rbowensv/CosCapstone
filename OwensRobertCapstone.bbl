@@ -18,7 +18,58 @@
 
 
 \refsection{0}
-  \sortlist[entry]{ynt/global/}
+  \sortlist[entry]{none/global/}
+    \entry{chawathe}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7408efbe7e721bf11975330928cb1264}{%
+           family={Chawathe},
+           familyi={C\bibinitperiod},
+           given={Sudarshan\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7408efbe7e721bf11975330928cb1264}
+      \strng{fullhash}{7408efbe7e721bf11975330928cb1264}
+      \strng{authornamehash}{7408efbe7e721bf11975330928cb1264}
+      \strng{authorfullhash}{7408efbe7e721bf11975330928cb1264}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2008 11th International IEEE Conference on Intelligent Transportation Systems}
+      \field{title}{Beacon Placement for Indoor Localization using Bluetooth}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1109/itsc.2008.4732690
+      \endverb
+    \endentry
+    \entry{ng}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f2cf31bb28ac32fccbd16f32648c462a}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Tsz\bibnamedelima Ming},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{fullhash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{authornamehash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{authorfullhash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HKIE Transactions}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{From “Where I am” to “Here I am”: Accuracy study on location-based services with iBeacon technology}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{23\bibrangedash 31}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/1023697x.2015.1009411
+      \endverb
+    \endentry
     \entry{bail}{article}{}
       \name{author}{1}{}{%
         {{hash=7a5f8f743083e3e613ffccf6ae525b3d}{%
@@ -104,29 +155,6 @@
       \verb 10.1080/13698570701612774
       \endverb
     \endentry
-    \entry{chawathe}{article}{}
-      \name{author}{1}{}{%
-        {{hash=7408efbe7e721bf11975330928cb1264}{%
-           family={Chawathe},
-           familyi={C\bibinitperiod},
-           given={Sudarshan\bibnamedelima S.},
-           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{7408efbe7e721bf11975330928cb1264}
-      \strng{fullhash}{7408efbe7e721bf11975330928cb1264}
-      \strng{authornamehash}{7408efbe7e721bf11975330928cb1264}
-      \strng{authorfullhash}{7408efbe7e721bf11975330928cb1264}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2008 11th International IEEE Conference on Intelligent Transportation Systems}
-      \field{title}{Beacon Placement for Indoor Localization using Bluetooth}
-      \field{year}{2008}
-      \verb{doi}
-      \verb 10.1109/itsc.2008.4732690
-      \endverb
-    \endentry
     \entry{sposaro}{article}{}
       \name{author}{3}{}{%
         {{hash=e6dbe80dbef2f93ed6ebd90300bf245b}{%
@@ -158,91 +186,6 @@
       \field{year}{2010}
       \verb{doi}
       \verb 10.1109/iembs.2010.5627669
-      \endverb
-    \endentry
-    \entry{MPR}{article}{}
-      \name{author}{2}{}{%
-        {{hash=d87b368031f5e56809190719b5468e8e}{%
-           family={Hecker},
-           familyi={H\bibinitperiod},
-           given={Jeffery\bibnamedelima E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=cc76566db472782a78ebd25a864fa06e}{%
-           family={Gugliucci},
-           familyi={G\bibinitperiod},
-           given={Marilyn\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{deac77db0d9b8df7198d5db1ccb32fb0}
-      \strng{fullhash}{deac77db0d9b8df7198d5db1ccb32fb0}
-      \strng{authornamehash}{deac77db0d9b8df7198d5db1ccb32fb0}
-      \strng{authorfullhash}{deac77db0d9b8df7198d5db1ccb32fb0}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Maine Policy Review}
-      \field{number}{2}
-      \field{title}{A Call to Action: Maine’s Colleges and Universities Respond to an Aging Population}
-      \field{volume}{24}
-      \field{year}{2015}
-      \field{pages}{36\bibrangedash 41}
-      \range{pages}{6}
-    \endentry
-    \entry{ng}{article}{}
-      \name{author}{1}{}{%
-        {{hash=f2cf31bb28ac32fccbd16f32648c462a}{%
-           family={Ng},
-           familyi={N\bibinitperiod},
-           given={Tsz\bibnamedelima Ming},
-           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \strng{fullhash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \strng{authornamehash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \strng{authorfullhash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{HKIE Transactions}
-      \field{month}{2}
-      \field{number}{1}
-      \field{title}{From “Where I am” to “Here I am”: Accuracy study on location-based services with iBeacon technology}
-      \field{volume}{22}
-      \field{year}{2015}
-      \field{pages}{23\bibrangedash 31}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1080/1023697x.2015.1009411
-      \endverb
-    \endentry
-    \entry{schmalenstroeer}{article}{}
-      \name{author}{2}{}{%
-        {{hash=07f91860a7a13ce396f0e6f7ef9d03d4}{%
-           family={Schmalenstroeer},
-           familyi={S\bibinitperiod},
-           given={Joerg},
-           giveni={J\bibinitperiod}}}%
-        {{hash=27394268ec19154143123cbcd93f5788}{%
-           family={Haeb-Umbach},
-           familyi={H\bibinithyphendelim U\bibinitperiod},
-           given={Reinhold},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{eb6722a2b3feaa859cb6a808a3a3bc96}
-      \strng{fullhash}{eb6722a2b3feaa859cb6a808a3a3bc96}
-      \strng{authornamehash}{eb6722a2b3feaa859cb6a808a3a3bc96}
-      \strng{authorfullhash}{eb6722a2b3feaa859cb6a808a3a3bc96}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2016 24th European Signal Processing Conference (EUSIPCO)}
-      \field{title}{Investigations into Bluetooth low energy localization precision limits}
-      \field{year}{2016}
-      \verb{doi}
-      \verb 10.1109/eusipco.2016.7760329
       \endverb
     \endentry
   \endsortlist

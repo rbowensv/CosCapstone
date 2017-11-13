@@ -2,15 +2,14 @@
 \usepackage[
 backend=biber,
 style=ieee,
-sorting=ynt
+sorting=none
 ]{biblatex}
 \usepackage[utf8]{inputenc}
-\usepackage[a4paper, margin=1in]{geometry}
 \usepackage{setspace}
 \usepackage{titling}
 \addbibresource{OwensRobertCapstone.bib}
 
-\title{JavaScript Programming Language}
+\title{iBeacon Title}
 \author{Robert B. Owens V}
 \date{\small Capstone Project\\[.5em]
 \small Fall 2017}
@@ -20,8 +19,17 @@ sorting=ynt
 \maketitle
 
 \section{Related Work}
-	This work on dementia related wandering is motivated by a call to action from the Maine Policy Review \cite{MPR}. The call to action discusses the rising elderly population and the demographic shift Maine is facing as well as what needs to be done to help this growing community. It further points out that the University of Maine’s mission statement is to ``advance learning and discovery … while addressing complex challenges and opportunities of the 21st century’’ making them ``well poised to respond to the aging demographic’’\cite{MPR}. The iBeacon approach is inspired by research I began at the Virtual Environment and Multimodal Interaction Lab (VEMI) at the University of Maine involving the use of iBeacons to help people navigate an indoor space without vision. Other authors have studied iBeacons \cite{chawathe,ng,schmalenstroeer} as well as solutions to dementia related wandering \cite{bail,robinson,sposaro} but none have looked at using iBeacons as a solution. 
+This project is using iBeacon proximity beacons to address the wandering problem. Other authors have looked at iBeacons and their work has helped shape ours. Looking at other solutions to dementia related wandering has also helped shape this work.
+\subsection{iBeacons}
+iBeacon proximity beacons are a relatively new commodity. These beacons use the iBeacon protocol to communicate to nearby devices simple data packets including very little information beyond the beacons identity. What the device does with this packet is up to the developer. 
 
+It is important to note that the communication is one way and the beacons have no record about devices that have heard their broadcast. Sudarshan Chawathe has published a paper discussing the proper placement of beacons so that their signal will properly propagate\cite{chawathe}. His work discusses the challenges of using iBeacon proximity beacons in an indoor environment due to the irregular shape of broadcast zones indoors and is used to facilitate the placement of the receiver in this project. Tsz Ming Ng's paper discusses the feasibility of using triangulation of beacon signals to track or locate a receiver. They find that to accurately measure location an incredible amount of beacons would be required and instead they should be used for proximity only\cite{ng}. This technique is used in our project rather than the triangulation approach. 
+
+\subsection{Wandering}
+Residents who suffer from any form of memory complications are at risk for wandering. Research has looked at how to balance resident autonomy, safety, privacy, and quality of life\cite{robinson}. The consensus is that solutions should not be applied with a blanket approach, but instead targeted to the individual resident. Residents surveyed felt they, ``were placed at greater risk by carrying a mobile phone (i.e. as a victim for crime) than from the process of wandering.''\cite{robinson} Balancing residents liberty and autonomy vs. their safety and security is a difficult decision. Family care providers tend to side with liberty and autonomy while formal care providers side with safety and security. Door locks prevent wandering by reducing liberty but increase safety and security. Tracking systems increase autonomy but decrease privacy. Our project increases safety while maintaining privacy and autonomy. 
+
+\subsection{iBeacons \& Wandering}
+Our project increases safety by alerting care providers if wandering occurs. It requires care provider intervention in some form, i.e. a phone call or a search for the resident. Because the proximity beacons are only checking if the resident is present, it maintains privacy and will not track the resident should they leave the monitored region. Our solution can be tailored to the individual by adjusting the window before the care provider is alerted and by allowing the residents to set expected absences that will not alert the care provider. 
  
 
 

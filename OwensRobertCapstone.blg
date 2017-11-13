@@ -1,18 +1,18 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
-[0] Config.pm:357> INFO - Logfile is 'OwensRobertCapstone.blg'
-[39] biber-MSWIN64:303> INFO - === 
-[64] Biber.pm:359> INFO - Reading 'OwensRobertCapstone.bcf'
-[144] Biber.pm:835> INFO - Found 7 citekeys in bib section 0
-[156] Biber.pm:3670> INFO - Processing section 0
-[172] Biber.pm:3840> INFO - Looking for bibtex format file 'OwensRobertCapstone.bib' for section 0
-[174] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[178] bibtex.pm:1292> INFO - Found BibTeX data source 'OwensRobertCapstone.bib'
-[182] Utils.pm:164> WARN - month field 'Feb' in entry 'ng' is not an integer - this will probably not sort properly.
-[184] Utils.pm:164> WARN - month field 'Jan' in entry 'bail' is not an integer - this will probably not sort properly.
-[201] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[202] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[202] Biber.pm:3499> INFO - Sorting list 'ynt/global/' of type 'entry' with scheme 'ynt' and locale 'en-US'
-[202] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[208] bbl.pm:608> INFO - Writing 'OwensRobertCapstone.bbl' with encoding 'UTF-8'
-[210] bbl.pm:712> INFO - Output to OwensRobertCapstone.bbl
-[210] Biber.pm:109> INFO - WARNINGS: 2
+[1] Config.pm:357> INFO - Logfile is 'OwensRobertCapstone.blg'
+[60] biber-MSWIN64:303> INFO - === 
+[133] Biber.pm:359> INFO - Reading 'OwensRobertCapstone.bcf'
+[289] Biber.pm:835> INFO - Found 5 citekeys in bib section 0
+[313] Biber.pm:3670> INFO - Processing section 0
+[343] Biber.pm:3840> INFO - Looking for bibtex format file 'OwensRobertCapstone.bib' for section 0
+[348] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[356] bibtex.pm:1292> INFO - Found BibTeX data source 'OwensRobertCapstone.bib'
+[362] Utils.pm:164> WARN - month field 'Feb' in entry 'ng' is not an integer - this will probably not sort properly.
+[364] Utils.pm:164> WARN - month field 'Jan' in entry 'bail' is not an integer - this will probably not sort properly.
+[391] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[391] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[391] Biber.pm:3499> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[392] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[398] bbl.pm:608> INFO - Writing 'OwensRobertCapstone.bbl' with encoding 'UTF-8'
+[400] bbl.pm:712> INFO - Output to OwensRobertCapstone.bbl
+[401] Biber.pm:109> INFO - WARNINGS: 2
