@@ -1,0 +1,37 @@
+\documentclass[11pt]{article}
+\usepackage[
+backend=biber,
+style=ieee,
+sorting=none
+]{biblatex}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{titling}
+\addbibresource{OwensRobertCapstone.bib}
+
+\title{iBeacon Proximity Beacons: A Solution to Wandering}
+\author{Robert B. Owens V}
+\date{\small Capstone Project\\[.5em]
+\small Fall 2017}
+
+\begin{document}
+
+\maketitle
+
+\section{Approach}
+Recall that this work is optimizing the balance between privacy, reliability and safety. To help maintain a feeling of privacy the iBeacon proximity beacons are used only to broadcast an approximate location, and this data is only used to determine if the resident is in the area. This decision was made because residents interviewed discussed a desire to maintain privacy and not be tracked\cite{robinson}.
+
+The broadcasting beacon is embedded in the residents cane for this prototype because it is an object that they are required to have and can not accidentally leave it behind; for implementation an object would need to be chosen for each individual. The chosen object should be something the resident is least likely to leave without. For this project I used BlueCats proximity beacons\cite{bluecats} because of they were available; any iBeacon proximity beacons can be used in a deployment provided they are capable of transmitting far enough for your space. For a receiver I used Raspberry Pi 3 because it has built in bluetooth, wi-fi, and a friendly space to develop in. When it came time to deploy it also had a small power requirement and a small footprint to store it in a space. 
+
+To help preserve autonomy and prevent false wandering reports it includes a delay in its customizable settings. This allows the caregiver to specify an amount of time that the resident should be missing for before an alert is sent. In addition to the delay it features Google calendar integration to allow the resident to specify times when they are expected to be leaving the space. Google calendar is easy to use and is the most widely used calendar service\cite{henry} so it made sense to make use of it. The care provider can also make use of the calendar to note when they expect the resident to be absent. To notify the caregiver when the resident has left, I use an e-mail service. This e-mail service can send an e-mail to the specified address of the caregiver, which most people can access on the go. 
+
+The application knows when a resident has left by scanning for iBeacon packets at regular intervals, determined by the user. When scanning, the reciever generates a list of packets that it heard during the scan time. For each packet the application compares the known identifier for the residents beacon. If the residents beacon is not found in the collection, the application knows the resident is absent and starts a timer. The length of the timer is determined by the user, and is used to prevent false alerts. If the resident returns before the timer expires then no alert is sent; otherwise, the application creates an e-mail alert and sends it to the care provider. 
+
+To send the e-mail to the care provider I use python's email library which constructs an email object and sends it using standard SMTP protocalls. The e-mail is built off of a template that can be easily customized for the individual. 
+ 
+ 
+
+
+\printbibliography
+
+\end{document}

@@ -19,85 +19,6 @@
 
 \refsection{0}
   \sortlist[entry]{none/global/}
-    \entry{chawathe}{article}{}
-      \name{author}{1}{}{%
-        {{hash=7408efbe7e721bf11975330928cb1264}{%
-           family={Chawathe},
-           familyi={C\bibinitperiod},
-           given={Sudarshan\bibnamedelima S.},
-           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{7408efbe7e721bf11975330928cb1264}
-      \strng{fullhash}{7408efbe7e721bf11975330928cb1264}
-      \strng{authornamehash}{7408efbe7e721bf11975330928cb1264}
-      \strng{authorfullhash}{7408efbe7e721bf11975330928cb1264}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2008 11th International IEEE Conference on Intelligent Transportation Systems}
-      \field{title}{Beacon Placement for Indoor Localization using Bluetooth}
-      \field{year}{2008}
-      \verb{doi}
-      \verb 10.1109/itsc.2008.4732690
-      \endverb
-    \endentry
-    \entry{ng}{article}{}
-      \name{author}{1}{}{%
-        {{hash=f2cf31bb28ac32fccbd16f32648c462a}{%
-           family={Ng},
-           familyi={N\bibinitperiod},
-           given={Tsz\bibnamedelima Ming},
-           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \strng{fullhash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \strng{authornamehash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \strng{authorfullhash}{f2cf31bb28ac32fccbd16f32648c462a}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{HKIE Transactions}
-      \field{month}{2}
-      \field{number}{1}
-      \field{title}{From “Where I am” to “Here I am”: Accuracy study on location-based services with iBeacon technology}
-      \field{volume}{22}
-      \field{year}{2015}
-      \field{pages}{23\bibrangedash 31}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1080/1023697x.2015.1009411
-      \endverb
-    \endentry
-    \entry{bail}{article}{}
-      \name{author}{1}{}{%
-        {{hash=7a5f8f743083e3e613ffccf6ae525b3d}{%
-           family={Bail},
-           familyi={B\bibinitperiod},
-           given={K.\bibnamedelimi D},
-           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-      }
-      \strng{namehash}{7a5f8f743083e3e613ffccf6ae525b3d}
-      \strng{fullhash}{7a5f8f743083e3e613ffccf6ae525b3d}
-      \strng{authornamehash}{7a5f8f743083e3e613ffccf6ae525b3d}
-      \strng{authorfullhash}{7a5f8f743083e3e613ffccf6ae525b3d}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Bmj}
-      \field{month}{1}
-      \field{number}{7383}
-      \field{title}{Electronic tagging of people with dementia}
-      \field{volume}{326}
-      \field{year}{2003}
-      \field{pages}{281\bibrangedash 281}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1136/bmj.326.7383.281
-      \endverb
-    \endentry
     \entry{robinson}{article}{}
       \name{author}{7}{}{%
         {{hash=4e2b59a213b3ac9bbcc9640b196011f4}{%
@@ -140,8 +61,8 @@
       \strng{fullhash}{b5ffbe571cae655176ab763e7e99244f}
       \strng{authornamehash}{b02b805744190019058d8063b43ea89f}
       \strng{authorfullhash}{b5ffbe571cae655176ab763e7e99244f}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Health, Risk \& Society}
@@ -155,37 +76,103 @@
       \verb 10.1080/13698570701612774
       \endverb
     \endentry
-    \entry{sposaro}{article}{}
-      \name{author}{3}{}{%
-        {{hash=e6dbe80dbef2f93ed6ebd90300bf245b}{%
-           family={Sposaro},
-           familyi={S\bibinitperiod},
-           given={F},
-           giveni={F\bibinitperiod}}}%
-        {{hash=92b45f09edafed160dadeb13670536f7}{%
-           family={Danielson},
-           familyi={D\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3894a30e042365580d985cd959409922}{%
-           family={Tyson},
-           familyi={T\bibinitperiod},
-           given={G},
-           giveni={G\bibinitperiod}}}%
+    \entry{wong}{article}{}
+      \name{author}{6}{}{%
+        {{hash=cae7168055a2951335709d59e4ae5595}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Albert\bibnamedelima Kai-Sun},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=7ca3f560e4cbce4ed878aa0b51551160}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={Tim\bibnamedelima Kam},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9d2c543764a05ca3462c17e370da982f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Albert\bibnamedelima Ting-Leung},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=955e8abd39001e775bada3313a521439}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Xiaoming},
+           giveni={X\bibinitperiod}}}%
+        {{hash=af04e2afbd7e4395aa53bbe4cb9b5f62}{%
+           family={Luk},
+           familyi={L\bibinitperiod},
+           given={Vincent\bibnamedelima Wing-Hei},
+           giveni={V\bibinitperiod\bibinitdelim W\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=c298ec4ea038e507cf7acec0917133ce}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Kwok\bibnamedelima Wai},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
-      \strng{namehash}{a0a7a8749b2e15a806290a10c3138073}
-      \strng{fullhash}{a0a7a8749b2e15a806290a10c3138073}
-      \strng{authornamehash}{a0a7a8749b2e15a806290a10c3138073}
-      \strng{authorfullhash}{a0a7a8749b2e15a806290a10c3138073}
+      \strng{namehash}{40ffea4efd7e30e9aa1c7e13848ce465}
+      \strng{fullhash}{dbc1c235731334b8dc8ceccc6e5fca51}
+      \strng{authornamehash}{40ffea4efd7e30e9aa1c7e13848ce465}
+      \strng{authorfullhash}{dbc1c235731334b8dc8ceccc6e5fca51}
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2010 Annual International Conference of the IEEE Engineering in Medicine and Biology}
-      \field{title}{iWander: An Android application for dementia patients}
-      \field{year}{2010}
+      \field{journaltitle}{2009 First International Conference on Ubiquitous and Future Networks}
+      \field{title}{An AGPS-based elderly tracking system}
+      \field{year}{2009}
       \verb{doi}
-      \verb 10.1109/iembs.2010.5627669
+      \verb 10.1109/icufn.2009.5174293
+      \endverb
+    \endentry
+    \entry{chawathe}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7408efbe7e721bf11975330928cb1264}{%
+           family={Chawathe},
+           familyi={C\bibinitperiod},
+           given={Sudarshan\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7408efbe7e721bf11975330928cb1264}
+      \strng{fullhash}{7408efbe7e721bf11975330928cb1264}
+      \strng{authornamehash}{7408efbe7e721bf11975330928cb1264}
+      \strng{authorfullhash}{7408efbe7e721bf11975330928cb1264}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2008 11th International IEEE Conference on Intelligent Transportation Systems}
+      \field{title}{Beacon Placement for Indoor Localization using Bluetooth}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1109/itsc.2008.4732690
+      \endverb
+    \endentry
+    \entry{ng}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f2cf31bb28ac32fccbd16f32648c462a}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Tsz\bibnamedelima Ming},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{fullhash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{authornamehash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \strng{authorfullhash}{f2cf31bb28ac32fccbd16f32648c462a}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HKIE Transactions}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{From “Where I am” to “Here I am”: Accuracy study on location-based services with iBeacon technology}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{23\bibrangedash 31}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/1023697x.2015.1009411
       \endverb
     \endentry
   \endsortlist

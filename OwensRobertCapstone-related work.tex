@@ -1,0 +1,38 @@
+\documentclass[11pt]{article}
+\usepackage[
+backend=biber,
+style=ieee,
+sorting=none
+]{biblatex}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{titling}
+\addbibresource{OwensRobertCapstone.bib}
+
+\title{iBeacon Proximity Beacons: A Solution to Wandering}
+\author{Robert B. Owens V}
+\date{\small Capstone Project\\[.5em]
+\small Fall 2017}
+
+\begin{document}
+
+\maketitle
+
+\section{Related Work}
+This project is using iBeacon proximity beacons to address the wandering problem. Other authors have looked at iBeacon proximity beacons and their work has helped shape ours. Looking at other solutions to dementia related wandering has also helped shape this work.
+
+\subsection{Privacy}
+iBeacon proximity beacons are a relatively new commodity. These beacons use the iBeacon protocol to communicate to nearby devices simple data packets including little information beyond the beacons identity. What the device does with this packet is up to the developer. It is important to note that the communication is one way and the beacons have no record about devices that have heard their broadcast. Residents prefer to keep their privacy and autonomy and be allowed to go where they want\cite{robinson}. To maintain privacy this work does not track the location of the resident beyond the residential space, unlike other location based works\cite{wong}. 
+
+\subsection{Reliability}
+Several studies looking at the reliability of iBeacon proximity beacons have been conducted. Sudarshan Chawathe has published a paper discussing the proper placement of beacons so that their signal will properly propagate\cite{chawathe}. Their work discusses the challenges of using iBeacon proximity beacons in an indoor environment due to the irregular shape of broadcast zones indoors and is used to facilitate the placement of the receiver in this project. Tsz Ming Ng's paper discusses the feasibility of using triangulation of beacon signals to track or locate a receiver. They find that to accurately measure location an incredible amount of beacons would be required and instead they should be used for proximity only\cite{ng}. This technique is used in our project rather than the triangulation approach. 
+
+\subsection{Safety}
+Our project increases safety by alerting care providers if wandering occurs. It requires care provider intervention in some form, i.e. a phone call or a search for the resident. Because the proximity beacons are only checking if the resident is present, it maintains privacy and will not track the resident should they leave the monitored region. Our solution can be tailored to the individual by adjusting the window before the care provider is alerted and by allowing the residents to set expected absences that will not alert the care provider. This work does not increase safety more than installing locks to prevent residents from leaving the residential space, but the focus of maintaining privacy and autonomy is achieved. 
+ 
+ 
+
+
+\printbibliography
+
+\end{document}
