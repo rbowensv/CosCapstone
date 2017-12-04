@@ -1,8 +1,8 @@
-SwitchDoc Labs, LLC
-June 2014
+Rob Owens
+Capstone no longer uses blescan
 
-blescanner is a python program designed to read iBeacon advertizments using a Bluetooth Dongle on a Raspberry Pi
+Requires an OS with bluez installed and python 3
 
-To test, "sudo python testblescanner.py"
+Uses beacontools, smtp email, and google calendar api
 
 
